@@ -1,6 +1,5 @@
 /*
  * @brief LPC17xx/40xx A/D conversion driver
- *
  * @note
  * Copyright(C) NXP Semiconductors, 2014
  * All rights reserved.
