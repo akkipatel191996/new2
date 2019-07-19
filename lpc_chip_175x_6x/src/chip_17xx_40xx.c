@@ -1,4 +1,4 @@
-/*
+ /*/
  * @brief LPC17xx/40xx Miscellaneous chip specific functions
  *
  * @note
